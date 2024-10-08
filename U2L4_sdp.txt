@@ -1,0 +1,11 @@
+1. They have to be the same size
+2. The first matrix has to be as wide as the 2nd matrix is tall
+3. Height of first matrix and width of the 2nd matrix
+4. 
+   a. The width of A or the height of B, since they need to be the same
+   b. The height of A
+5. I didn't think I needed to
+I do think you meant modulo but where would that be used
+> Or do you mean len()
+
+Edit: I think I see now
